@@ -1,4 +1,4 @@
-# Implementation of SARA
+# SARA Implementation
 
 This repository contains the implementation of SARA (Stepwise Advisory agent with Retrieval Augmentation), a system designed for question answering tasks on HotPotQA dataset. SARA uses an advisory memory system to improve its performance through reflection and learning from past experiences.
 
