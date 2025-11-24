@@ -1,0 +1,9 @@
+{
+    "account": "YOUR_ACCOUNT",
+    "user": "YOUR_USERNAME",
+    "password": "YOUR_PASSWORD",
+    "role": "SYSADMIN",
+    "database": "",
+    "schema": "",
+    "warehouse": ""
+}
